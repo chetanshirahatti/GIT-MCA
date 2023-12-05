@@ -1,2 +1,2 @@
 # GIT-MCA
-College
+Belgavi
